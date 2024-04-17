@@ -1,0 +1,28 @@
+.container-fluid{
+
+    margin: opx;
+}
+.border-12{
+
+    border: none !important;
+}
+
+.background1{
+    background-image: url(https://d32baadbbpueqt.cloudfront.net/Homepage/f2e2157b-1c8d-4885-9c59-8b4235bb18bd.png);
+    height: 80vh;
+}
+.line{
+width: 12%;
+
+padding: 20px;
+}
+#background{
+    height: 40vh;
+    width: 97%;
+    border-radius: 18px;
+    
+    background-image: url(https://d32baadbbpueqt.cloudfront.net/Homepage/f2e2157b-1c8d-4885-9c59-8b4235bb18bd.png);
+}
+
+.size{height: 65vh;
+width: 350px;}
